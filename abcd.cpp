@@ -5,6 +5,7 @@ int main()
 {
     int a=20;
     if(a==20){
+        cout<<"Following is the output: ";
         cout<<"the number is: "<<a;
     }
     return 0;
