@@ -7,6 +7,7 @@ int main()
     if(a==20){
         cout<<"Following is the output: ";
         cout<<"the number is: "<<a;
+        cout<<"The end";
     }
     return 0;
 }
