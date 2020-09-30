@@ -7,4 +7,5 @@ int main()
     if(a==20){
         cout<<"the number is: "<<a;
     }
+    return 0;
 }
